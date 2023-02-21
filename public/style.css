@@ -264,7 +264,7 @@ p {
 
 /* responsive */
 
-@media (max-device-width:500px){
+@media (max-device-width:900px){
 
 img{
   width: 225px;
@@ -276,7 +276,7 @@ h2{
 }
 
 .grid{
-  margin-left: 26%;
+  margin-left: 25%;
 }
 
 .form__field{
