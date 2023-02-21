@@ -261,3 +261,28 @@ p {
 .main-content__body{
   color: #FFFBEB;
 }
+
+/* responsive */
+
+@media (max-device-width:500px){
+
+img{
+  width: 225px;
+  height: 222px;
+}
+
+h2{
+  font-size: 2.5rem;
+}
+
+.grid{
+  margin-left: 26%;
+}
+
+.form__field{
+  height: 90px;
+  width: 500px;
+  font-size: 1.5rem;
+}
+}
+
